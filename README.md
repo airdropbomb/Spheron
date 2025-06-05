@@ -3,7 +3,7 @@ Spheron Network BOT
 
 - Register Here : [Spheron Network](https://tge.spheron.network/login)
 - Signup With Google
-- Use Code `435DB1AF`
+- Use Code `AA18031A`
 
 ## Features
 
@@ -23,10 +23,7 @@ Spheron Network BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/Spheron-BOT.git
-   ```
-   ```bash
-   cd Spheron-BOT
+   git clone https://github.com/airdropbomb/Spheron.git && cd Spheron
    ```
 
 2. **Install Requirements:**
