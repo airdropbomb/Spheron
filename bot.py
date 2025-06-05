@@ -458,7 +458,7 @@ class Spheron:
                         await asyncio.sleep(3)
 
                 self.log(f"{Fore.CYAN + Style.BRIGHT}={Style.RESET_ALL}"*64)
-                seconds = 12 * 60 * 60
+                seconds = 5 * 60 * 60
                 while seconds > 0:
                     formatted_time = self.format_seconds(seconds)
                     print(
